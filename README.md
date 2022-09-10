@@ -5,4 +5,4 @@ trappist-ejecta is an astrophysics research project investigating the panspermia
 
 SCExAO/CHARIS is an astronomical instrument for the Subaru Telescope in Hawaii. I worked on translating its Data Processing Pipeline from IDL into Python, under supervision of Dr. Thayne Currie at Eureka Scientific. 
 
-hmwk-samples includes exerpts from academic coursework, including NLP, ML, and robotics homeworks. 
+hmwk-samples includes exerpts from NLP and robotics homeworks. 
